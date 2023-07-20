@@ -1,1 +1,2 @@
 # bingo-django
+text here.. 
